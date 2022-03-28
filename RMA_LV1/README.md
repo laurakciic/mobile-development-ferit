@@ -2,8 +2,8 @@
 
 My version:
 
-![layoutImage](/assets/images/LV1.jpg)
+![layoutImage](C:\Users\Laura\AndroidStudioProjects\mobile-development-ferit\RMA_LV1\LV1.jpg)
 
 Task: 
 
-![tasksImage](/assets/images/taskLV1.jpg)
+![tasksImage](C:\Users\Laura\AndroidStudioProjects\mobile-development-ferit\RMA_LV1\taskLV1.jpg)
