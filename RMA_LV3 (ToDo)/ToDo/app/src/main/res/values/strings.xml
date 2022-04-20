@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="task1">Go to store</string>
+    <string name="task2">Go to gym</string>
+    <string name="task3">Make lunch</string>
+    <string name="task4">Study</string>
+</resources>
